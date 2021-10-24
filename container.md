@@ -5,7 +5,7 @@ How to install Jenkins web server as a docker instance in Ubuntu
 ### Installing Jenkins as a Container in Linux (Ubuntu)
 
 ### Command to pull the container
-docker run orchardup/jenkins  [TRUSTED BUILD](https://index.docker.io/u/orchardup/jenkins/)
+docker run jenkins/jenkins  [TRUSTED BUILD](https://index.docker.io/u/orchardup/jenkins/)
 
 
 ### Start the Conatiner
